@@ -45,6 +45,4 @@ Demonstrar conhecimentos em:
 
 ---
 
-## 👤 Autor
-**Marina Rodrigues**  
-Projeto desenvolvido para portfólio profissional (Backoffice / Dados).
+
